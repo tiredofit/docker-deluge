@@ -9,7 +9,7 @@ RUN set -x && \
     apk upgrade && \
     apk add -t .deluge-run-deps \
                deluge \
-               gtk+3.0-dev \
+               gtk+3.0 \
                && \
     rm -rf /var/cache/apk/*
 
