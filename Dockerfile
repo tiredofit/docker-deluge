@@ -10,7 +10,9 @@ RUN set -x && \
     apk add -t .deluge-run-deps \
                deluge \
                gtk+3.0 \
+               xcb-util-cursor \
+
                && \
     rm -rf /var/cache/apk/*
 
-ADD install/ /
+COPY install/ /
