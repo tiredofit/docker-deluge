@@ -60,7 +60,7 @@ Builds of the image are available on [Docker Hub](https://hub.docker.com/r/tired
 Builds of the image are also available on the [Github Container Registry](https://github.com/tiredofit/docker-deluge/pkgs/container/docker-deluge) 
  
 ```
-docker pull ghcr.io/tiredofit/docker-deluge/pkgs/container/docker-deluge):(imagetag)
+docker pull ghcr.io/tiredofit/docker-deluge:(imagetag)
 ``` 
 
 The following image tags are available along with their tagged release based on what's written in the [Changelog](CHANGELOG.md):
