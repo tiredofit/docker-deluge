@@ -12,7 +12,7 @@
 
 ## About
 
-This will build a Docker image for [SoulSeek](https://slsknet.org, to allow it to be accessed via a web browser.
+This will build a Docker image for [Delugef(https://deluge-torrent.org/) to allow it to be accessed via a web browser.
 
 ## Maintainer
 
